@@ -1,4 +1,4 @@
-My name is **Zachary Loo** and my UCSD email is **zloo@ucsd.edu**
+My name is **Zachary Loo** and my UCSD email is **zloo@ucsd.edu**  
 For Fall Quarter 2026, I am in section **D01** mentored by **Dr. Ali Arsanjani**  
 
 1. **What is the most interesting topic covered in your domain this quarter?**  
